@@ -15,3 +15,11 @@ Lien pour le cahier de laboratoire : [Répertoire](https://docs.google.com/docum
 Améliorer un modèle de segmentation d'images
 
 Lien pour le cahier de laboratoire :  [Répertoire](https://docs.google.com/document/d/1VslNL4rODKkp5_SJX7kqyRLnql5BzynF6qREkZCG3p8/edit?usp=sharing)
+
+## Extra - Détection d'objet
+
+Quelques vidéos : 
+
+- [Grizzly](https://drive.google.com/file/d/1BvSsRweSg9VUpw9nUVbMWR79klq66y0S/view?usp=sharing)
+
+- [ViniUra](https://drive.google.com/file/d/1s7G2WUsCVt3SCCsFMN4ATCW_Qnk7ke5-/view?usp=sharing)
