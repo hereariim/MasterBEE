@@ -16,6 +16,13 @@ Améliorer un modèle de segmentation d'images
 
 Lien pour le cahier de laboratoire :  [Répertoire](https://docs.google.com/document/d/1VslNL4rODKkp5_SJX7kqyRLnql5BzynF6qREkZCG3p8/edit?usp=sharing)
 
+## Séance 4
+
+Qui parmi vous aurait le meilleur modèle ?
+
+Lien pour le cahier de laboratoire :  [Répertoire](https://docs.google.com/document/d/1ndJTl0ndi5ulp5Omjf1Bn2X3-qKU8h70xuRtFIeOCzk/edit?usp=sharing)
+
+
 ## Extra - Détection d'objet
 
 Quelques vidéos : 
